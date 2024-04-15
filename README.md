@@ -14,7 +14,8 @@ Página Ranking:
 ![image](https://github.com/andreylnx/minecraft/assets/17456968/b66f54dd-5d98-4c4b-99e8-10d86e04d752)
 
 Página Contato:
-![image](https://github.com/andreylnx/minecraft/assets/17456968/6b9b17dd-2298-440e-8d82-8f6c41139d67)
+![image](https://github.com/andreylnx/minecraft/assets/17456968/c20a8c38-7fad-467c-b138-f2f5cb271718)
+
 
 
 
